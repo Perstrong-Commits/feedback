@@ -1,0 +1,681 @@
+[
+  {
+    "id": "38e59b5b-9b46-47fd-976a-bb7ac430fe75",
+    "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAARuIWMnAADQdI8PKZs2SbhrZqWQj9OYAASH5d8wAAAA0",
+    "name": "По умолчанию",
+    "description": "",
+    "categories": [],
+    "keywords": [],
+    "people": [],
+    "image": "",
+    "tasksParentFolderId": "",
+    "appName": "OutlookCalendar",
+    "createdDateTime": "2021-12-28T00:41:15.3631027Z",
+    "lastModifiedDateTime": "2021-12-28T00:59:01.1754451Z",
+    "unseenCapturedCount": 1,
+    "templateType": "",
+    "backgroundColor": "",
+    "assets": [
+      {
+        "id": "1f3a1e70-46c6-44d2-9c4a-033f6080d2bf",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMiAAAA0",
+        "type": "file",
+        "x": 41440,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Get Started with Dropbox Paper.url",
+            "isFolder": false
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAACA",
+          "location": "/get started with dropbox paper.url",
+          "url": "https://www.dropbox.com/s/9dnyjtjnhao2q2z/Get%20Started%20with%20Dropbox%20Paper.url?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:04.2147059Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:05.8647606Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "37c55ae8-6826-47e6-9af4-242575a4f785",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMZAAAA0",
+        "type": "calendar",
+        "x": 16,
+        "y": 16,
+        "width": 464,
+        "height": 640,
+        "isCollapsed": false,
+        "payload": {
+          "calendarIds": [
+            "AQMkADAwATMwMAItMDQ3MS05MzYwLTAwAi0wMAoARgAAA3fLEfK++jtAprxGnfr2G88HANB0jw8pmzZJuGtmpZCP05gAAAIBBgAAANB0jw8pmzZJuGtmpZCP05gAAAIqkgAAAA=="
+          ],
+          "viewType": "day",
+          "numDaysInDayView": 4
+        },
+        "createdDateTime": "2021-12-28T00:41:15.5619894Z",
+        "lastModifiedDateTime": "2021-12-28T00:41:16.3335471Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "37ea9ab9-7f95-4149-9052-cd193c72df6b",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMtAAAA0",
+        "type": "file",
+        "x": 19408,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Мой Mac (iMac-svetlana-187.local)",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAG_w",
+          "location": "/мой mac (imac-svetlana-187.local)",
+          "url": "https://www.dropbox.com/sh/fxigeup38r6824b/AADPcq_up_AuJWt6JDtS74Sya?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:07.1929999Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:08.2843744Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "49fc526c-e53e-4265-a8fe-49eb582dfa3e",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMxAAAA0",
+        "type": "file",
+        "x": 37168,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "IntelME.log",
+            "isFolder": false
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAGrA",
+          "location": "/intelme.log",
+          "url": "https://www.dropbox.com/s/uadlk41t05byez7/IntelME.log?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:08.2094169Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:09.0749216Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "4bc98b49-60cd-479e-94c4-b40f19037eb0",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMvAAAA0",
+        "type": "file",
+        "x": 9520,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Мой Mac (iMac-PERSTRONG.LIVE.COM-local.)",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnyg",
+          "location": "/мой mac (imac-perstrong.live.com-local.)",
+          "url": "https://www.dropbox.com/sh/yb6scsmex7jba2h/AACMwL-fZKtbEe5F8AWELXDLa?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:07.1939993Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:07.8676138Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "5babb64f-6adb-44e6-aa55-5d232f38ec1d",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMsAAAA0",
+        "type": "file",
+        "x": 16576,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Мой Mac (iMac-SMTP.OFICCE365.COM.local) - SFTP",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnzQ",
+          "location": "/мой mac (imac-smtp.oficce365.com.local) - sftp",
+          "url": "https://www.dropbox.com/sh/0704uoynbp4lt8u/AADjw5kEpyCwryc3cGYPNCXza?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:07.193Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:11.6874238Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "696c191f-c91d-4088-afbb-bf4b55f6be1f",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMwAAAA0",
+        "type": "file",
+        "x": 22480,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Архив.zip",
+            "isFolder": false
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnyQ",
+          "location": "/архив.zip",
+          "url": "https://www.dropbox.com/s/s44kan04h7r858s/%D0%90%D1%80%D1%85%D0%B8%D0%B2.zip?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:08.209417Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:08.9959669Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "78db6539-3060-4859-a334-beac3bc4663a",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMrAAAA0",
+        "type": "file",
+        "x": 7648,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "a8f7a65c-f5ba-4859-b2d6-df772c264e9d",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAntA",
+          "location": "/a8f7a65c-f5ba-4859-b2d6-df772c264e9d",
+          "url": "https://www.dropbox.com/sh/s67b91ppjer9zcn/AABlieGFIhGzl3J8qCDzKxl5a?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:06.172586Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:07.0520802Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "83baf473-5f48-48dc-9d4f-ccae4fa1c14b",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMaAAAA0",
+        "type": "tasklist",
+        "x": 496,
+        "y": 16,
+        "width": 224,
+        "height": 640,
+        "isCollapsed": false,
+        "payload": {
+          "folderId": "",
+          "listId": {
+            "type": 0,
+            "Id": "AQMkADAwATMwMAItMDQ3MS05MzYwLTAwAi0wMAoALgAAA3fLEfK__jtAprxGnfr2G88BANB0jw8pmzZJuGtmpZCP05gAAAIBEgAAAA=="
+          }
+        },
+        "createdDateTime": "2021-12-28T00:41:15.6009677Z",
+        "lastModifiedDateTime": "2021-12-28T00:49:14.6394898Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "890642ac-b35d-4b97-861c-5545fc64ab75",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMcAAAA0",
+        "type": "tips",
+        "x": 736,
+        "y": 224,
+        "width": 224,
+        "height": 336,
+        "isCollapsed": false,
+        "payload": {},
+        "createdDateTime": "2021-12-28T00:41:15.6399443Z",
+        "lastModifiedDateTime": "2021-12-28T00:41:15.651938Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "8ff61f66-9ab4-4613-80e7-07dd7a3f32a1",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMyAAAA0",
+        "type": "mailItem",
+        "x": 65536,
+        "y": 65536,
+        "isCollapsed": false,
+        "payload": {
+          "itemId": "AQMkADAwATMwMAItMDQ3MS05MzYwLTAwAi0wMAoARgAAA3fLEfK++jtAprxGnfr2G88HANB0jw8pmzZJuGtmpZCP05gAAAIBDAAAANB0jw8pmzZJuGtmpZCP05gABHTg2lUAAAA=",
+          "item": {
+            "ConversationId": {
+              "__type": "ItemId:#Exchange",
+              "Id": "AQQkADAwATMwMAItMDQ3MS05MzYwLTAwAi0wMAoAEAC+mmHDM6L3TZIs9ZFAyl1u"
+            },
+            "DateTimeReceived": "2021-12-02T03:26:15+00:00",
+            "Flag": {
+              "FlagStatus": "NotFlagged"
+            },
+            "HasAttachments": false,
+            "IsRead": false,
+            "ItemId": {
+              "__type": "ItemId:#Exchange",
+              "ChangeKey": "CQAAABYAAADQdI8PKZs2SbhrZqWQj9OYAAR0pv1v",
+              "Id": "AQMkADAwATMwMAItMDQ3MS05MzYwLTAwAi0wMAoARgAAA3fLEfK++jtAprxGnfr2G88HANB0jw8pmzZJuGtmpZCP05gAAAIBDAAAANB0jw8pmzZJuGtmpZCP05gABHTg2lUAAAA="
+            },
+            "ParentFolderId": {
+              "__type": "FolderId:#Exchange",
+              "Id": "AQMkADAwATMwMAItMDQ3MS05MzYwLTAwAi0wMAoALgAAA3fLEfK++jtAprxGnfr2G88BANB0jw8pmzZJuGtmpZCP05gAAAIBDAAAAA==",
+              "ChangeKey": "AQAAAA=="
+            },
+            "Preview": "pernas Pernas commented: https://account.activedirectory.windowsazure.com/PERSTRONG.LIVE.COM#ext:PerstrongScriptKeyPERSTRONG.ONLINE://PERSTRONG.RZPF-PERSTRONG.COM///xml-json.proofup.aspx?culture=ru Закладки Safari.html (0.3 kB) exec.htm (5 kB) XML, JSON Viewer",
+            "Sender": {
+              "Mailbox": {
+                "Name": " Atlassian product evaluator advice",
+                "EmailAddress": "presales@am.atlassian.com",
+                "RoutingType": "SMTP",
+                "MailboxType": "OneOff"
+              }
+            },
+            "Subject": "Update Regarding PA-97723   http://dreamscity.combats.com/shop2.pl?set=PERSTRONG.ONLINE://PERSTRONG.RZPF-PERSTRONG.COM/"
+          }
+        },
+        "createdDateTime": "2021-12-28T00:59:01.0994886Z",
+        "lastModifiedDateTime": "2021-12-28T00:59:01.1114817Z",
+        "order": 0,
+        "isCaptured": true,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "afc66b74-8327-4e6a-b09b-77b514cb567a",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMmAAAA0",
+        "type": "file",
+        "x": 11632,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Мой Mac (iMac-PERSTRONG.LIVE.COM.local.) - SFTP",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnzA",
+          "location": "/мой mac (imac-perstrong.live.com.local.) - sftp",
+          "url": "https://www.dropbox.com/sh/4w94rd7czlmhnmr/AACof5V0zlmnf7EKFwLs5gn8a?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:05.1461725Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:09.5096721Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "b7e136cb-dae1-49db-83d3-9b4b4d513c88",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMkAAAA0",
+        "type": "file",
+        "x": 4624,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "391",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnfQ",
+          "location": "/391",
+          "url": "https://www.dropbox.com/sh/kzs7umlpcsvowub/AAAQ6FHIb0ZGa3EjLICJpV33a?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:05.1441736Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:08.8430537Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "ba497b4c-bb94-4059-bbd0-df36d0c043aa",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMbAAAA0",
+        "type": "note",
+        "x": 736,
+        "y": 16,
+        "width": 224,
+        "height": 192,
+        "isCollapsed": false,
+        "payload": {
+          "remoteId": "AAkALgAAAAAAHYQDEapmEc2byACqAC-EWg0A0HSPDymbNkm4a2alkI-TmAAEh_Xq8AAA",
+          "title": "PERSTRONG.LIVE.COM"
+        },
+        "createdDateTime": "2021-12-28T00:41:15.6209559Z",
+        "lastModifiedDateTime": "2021-12-28T00:48:28.8887043Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "bc7f9466-63d9-4bf1-b810-eb216a816b73",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMfAAAA0",
+        "type": "file",
+        "x": 3472,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "HTTPS:",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAndg",
+          "location": "/https:",
+          "providerEndpointUrl": "",
+          "url": "",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:04.1277562Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:08.5991939Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "c46853d8-7676-4e1f-b73e-2d80d4675885",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMqAAAA0",
+        "type": "file",
+        "x": 1456,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Создать папку",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnBg",
+          "location": "/создать папку",
+          "url": "https://www.dropbox.com/sh/h43gqhmrotyh40v/AAANnlWwBvvPEs4LX2QbVyuga?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:06.1705859Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:07.3469117Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "c6460ff3-0d40-47f5-901c-82cc2842f1d4",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMpAAAA0",
+        "type": "file",
+        "x": 45952,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Get Started with Dropbox.pdf",
+            "isFolder": false
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAACQ",
+          "location": "/get started with dropbox.pdf",
+          "url": "https://www.dropbox.com/s/yuwigjwsq7lhhvt/Get%20Started%20with%20Dropbox.pdf?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:06.1705858Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:07.0101044Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "cd6868e7-0a7f-4bfd-9503-cb3c2019331b",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMjAAAA0",
+        "type": "file",
+        "x": 25792,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Без названия.gsheet",
+            "isFolder": false
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAHhA",
+          "location": "/без названия.gsheet",
+          "url": "https://www.dropbox.com/scl/fi/mfxz68mwgw036djlrtgml/.gsheet?dl=0&rlkey=obk28rdzk68c974rxaauk7sh9",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:04.2147058Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:06.8891735Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "cdfe0c94-c443-4e03-b4dc-1de2c64bd8ee",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMuAAAA0",
+        "type": "file",
+        "x": 29344,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "IntelME1055.log.p7b",
+            "isFolder": false
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAGrg",
+          "location": "/intelme1055.log.p7b",
+          "url": "https://www.dropbox.com/s/sd1rad9n394bpn3/IntelME1055.log.p7b?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:07.1929998Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:07.9305767Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "d464d4c1-0f86-4445-a488-791d61c8c1d8",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMeAAAA0",
+        "type": "file",
+        "x": 1216,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Untitled folder",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAHmA",
+          "location": "/untitled folder",
+          "providerEndpointUrl": "",
+          "url": "",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:04.1267568Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:09.902447Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "d945603f-2bad-4115-8f6f-17da08e30aef",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMhAAAA0",
+        "type": "file",
+        "x": 13984,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Мой Mac (iMac-PERSTRONG.LIVE.COM-local.0",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnyw",
+          "location": "/мой mac (imac-perstrong.live.com-local.0",
+          "url": "https://www.dropbox.com/sh/ttsjbbltelfbyvt/AACiOZ6Id9ChWzOGsQeHqEmKa?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:04.1827237Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:06.7772376Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "eec71c3a-cd23-4776-bfe2-a9193c1ed570",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMoAAAA0",
+        "type": "file",
+        "x": 33136,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "IntelME.log.cer",
+            "isFolder": false
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAGrQ",
+          "location": "/intelme.log.cer",
+          "url": "https://www.dropbox.com/s/yatrmaqzkshvdho/IntelME.log.cer?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:06.1715854Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:06.9111614Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "f322990c-e1f6-4f37-8d3e-ab826867040d",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMdAAAA0",
+        "type": "file",
+        "x": 1888,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "Запросы файлов",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnWQ",
+          "location": "/запросы файлов",
+          "url": "https://www.dropbox.com/sh/apac9b4slf3e0wx/AAAKSesbokQ8yAi6UQeNZ9Una?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:04.1267567Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:10.7179819Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "f5e14b87-5966-4210-9d4b-ffe69f8cfc61",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMlAAAA0",
+        "type": "file",
+        "x": 2560,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "PERSTRONG.RZPF-PERSTRONG.COM",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnWw",
+          "location": "/perstrong.rzpf-perstrong.com",
+          "url": "https://www.dropbox.com/sh/ahq5awt46btq8ea/AAA4OzUi1I4Qy8qAPgo3zDBsa?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:05.1431757Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:06.4474287Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "f7bfac58-7cb1-4b50-ad77-146a101364ce",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMgAAAA0",
+        "type": "file",
+        "x": 976,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "RZPF",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:sCUDmJ1xAUAAAAAAAAAAAQ",
+          "location": "/rzpf",
+          "url": "https://www.dropbox.com/sh/5x3ho1d4at5kjwi/AAA-9PoXVI_5kN-QKttraD14a?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:04.1297546Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:06.1136185Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      },
+      {
+        "id": "fc5555e0-2fbe-4db6-add8-fb8120a7e345",
+        "key": "RgAAAAB3yxHyvvo7QKa8Rp369hvPBwDQdI8PKZs2SbhrZqWQj9OYAASH5Y3tAADQdI8PKZs2SbhrZqWQj9OYAASH5eMnAAAA0",
+        "type": "file",
+        "x": 6016,
+        "y": 16,
+        "isCollapsed": false,
+        "payload": {
+          "filePickerLinkData": {
+            "fileName": "PERSTRONG.LIVE.COM",
+            "isFolder": true
+          },
+          "fileProvider": 2,
+          "fileId": "id:jaP-_-iQsIAAAAAAAAAnrw",
+          "location": "/perstrong.live.com",
+          "url": "https://www.dropbox.com/sh/iak72mxtruu8yp6/AAC2cMcA2_TG3ia7AvMWLlYma?dl=0",
+          "thumbnailUrl": ""
+        },
+        "createdDateTime": "2021-12-28T00:51:05.1431756Z",
+        "lastModifiedDateTime": "2021-12-28T00:51:08.8450522Z",
+        "order": 0,
+        "dueDateTz": "",
+        "taskId": "",
+        "color": ""
+      }
+    ]
+  }
+]
